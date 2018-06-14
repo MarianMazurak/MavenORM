@@ -21,6 +21,9 @@ public class App {
 		//saveData(em);
 
 	
+		
+		
+		
 		// LIKE
 		// List<Teacher> list = em.createQuery("Select t from Teacher t where
 		// t.firstName LIKE :teacherName" , Teacher.class)
